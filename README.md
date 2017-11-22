@@ -1,4 +1,4 @@
-# email-wells-fargo
+# Wells Fargo Responsive Email
 
 I am a Wells Fargo customer. However, I haven't always been satisfied with the banking products that they've offered.
 
